@@ -1,6 +1,9 @@
 # Ask Luna AI
 > Your Dedicated AI Intern
 
+<img src="./askluna-logo.png" alt="Ask Luna Logo" width="200">
+
+
 ## Pitch
 
 Ask Luna is revolutionizing the way small businesses operate by providing them with a dedicated AI intern. The AI Agent collaborates with a swarm of AI to research, automate tasks and execute your workflows.  Ask Luna will learn and grow with you With Ask Luna, small business owners can focus on growing their business while their AI intern handles the rest. 
