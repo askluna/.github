@@ -1,5 +1,5 @@
 # Ask Luna AI
-## Your Dedicated AI Intern
+### Your Dedicated AI Intern
 
 <img src="./askluna-logo.png" alt="Ask Luna Logo" width="200">
 
