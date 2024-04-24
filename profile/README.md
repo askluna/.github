@@ -1,7 +1,7 @@
 # Ask Luna AI
 ### Your Dedicated AI Intern
 
-[<img alt="Ask Luna Logo" width="200" src="./askluna-logo.png" />]()
+[<img alt="Ask Luna Logo" width="200" src="https://raw.githubusercontent.com/askluna/.github/master/profile/askluna-logo.png" />]()
 
 
 
