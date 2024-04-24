@@ -1,7 +1,8 @@
 # Ask Luna AI
 ### Your Dedicated AI Intern
 
-<img src="./askluna-logo.png" alt="Ask Luna Logo" width="200">
+[<img alt="Ask Luna Logo" width="200" src="./askluna-logo.png" />]()
+
 
 
 ## Pitch
